@@ -1,0 +1,29 @@
+body{
+	font-family: Verdana, Geneva, Tahoma, sans-serif;
+	magrin: 20px;
+}
+
+.saad-img{
+
+	width: 150px;
+}
+
+.card{
+	background-color: #ddebf8;
+	color: #2b2839;
+	width: 400px;
+
+	margin: 0 auto;
+		
+	padding: 20px;
+
+	display: flex;
+
+	justify-content: space-around;
+
+	text-align: center;
+
+	border-bottom: 5px solid #d8cefe;
+
+	
+}
